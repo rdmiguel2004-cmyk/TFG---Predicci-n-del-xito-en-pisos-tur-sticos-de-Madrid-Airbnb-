@@ -1,7 +1,7 @@
 # TFG---Predicci-n-del-xito-en-pisos-tur-sticos-de-Madrid-Airbnb-
 Análisis de los factores de éxito en pisos turísticos de Madrid utilizando Python 
 # Predicción del Éxito en Airbnb y Segmentación del Mercado
-Descripción del proyecto
+# Descripción del proyecto
 
 Este proyecto analiza el mercado de alquiler turístico (Airbnb) utilizando técnicas de ciencia de datos y machine learning para identificar los factores que influyen en el éxito de los alojamientos.
 
@@ -9,7 +9,7 @@ El estudio combina segmentación de mercado mediante clustering y modelos predic
 
 El objetivo es generar insights empresariales útiles para anfitriones, inversores y gestores de propiedades en el mercado del alquiler turístico.
 
-Objetivos del proyecto
+# Objetivos del proyecto
 
 El proyecto tiene como objetivos principales:
 
@@ -21,7 +21,7 @@ Construir modelos predictivos para estimar la probabilidad de éxito
 
 Extraer implicaciones estratégicas para anfitriones e inversores
 
-Metodología
+# Metodología
 
 El análisis sigue un flujo típico de proyecto de ciencia de datos.
 
@@ -144,7 +144,7 @@ Apartamentos premium gestionados de forma profesional
 
 Alojamientos boutique de alta calidad gestionados por superhosts
 
-Herramientas utilizadas
+# Herramientas utilizadas
 
 El proyecto se desarrolló utilizando Python y las siguientes librerías:
 
@@ -162,7 +162,7 @@ matplotlib
 
 seaborn
 
-Estructura del proyecto
+# Estructura del proyecto
 airbnb-success-analysis/
 │
 ├── data/
@@ -179,7 +179,7 @@ airbnb-success-analysis/
 │   └── gráficos y visualizaciones
 │
 └── README.md
-Relevancia empresarial
+# Relevancia empresarial
 
 Este proyecto muestra cómo la ciencia de datos puede aplicarse al análisis del mercado de alquiler turístico.
 
@@ -193,8 +193,3 @@ posicionamiento de alojamientos en el mercado
 
 gestión profesional de propiedades turísticas
 
-Autor
-
-Trabajo de Fin de Grado (TFG)
-Grado en Administración y Dirección de Empresas (ADE)
-Universidad de Castilla-La Mancha
