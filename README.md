@@ -19,7 +19,7 @@ Analizar los factores que influyen en el éxito de un alojamiento
 
 Construir modelos predictivos para estimar la probabilidad de éxito
 
-Extraer implicaciones estratégicas para anfitriones e inversores
+Interpretar cómo los factores inciden en el éxito
 
 # Metodología
 
